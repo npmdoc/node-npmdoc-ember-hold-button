@@ -1,4 +1,7 @@
-# api documentation for  [ember-hold-button (v0.3.4)](https://github.com/AddJam/ember-hold-button)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-hold-button.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-hold-button) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-hold-button.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-hold-button)
+# npmdoc-ember-hold-button
+
+#### basic api documentation for  [ember-hold-button (v0.3.4)](https://github.com/AddJam/ember-hold-button)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-hold-button.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-hold-button) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-hold-button.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-hold-button)
+
 #### Hold to confirm buttons for ember-cli. Avoid intrusive modals.
 
 [![NPM](https://nodei.co/npm/ember-hold-button.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-hold-button)
@@ -92,7 +95,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "0.3.4"
+    "version": "0.3.4",
+    "bin": {}
 }
 ```
 
